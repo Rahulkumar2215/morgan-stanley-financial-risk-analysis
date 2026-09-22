@@ -33,7 +33,7 @@ There were no missing values or duplicate rows, but a few things needed judgemen
 
 - `financial_risk_analysis.ipynb` - the full analysis with outputs and charts
 - `morgan_stanley.csv` - the dataset
-- `report/summary_report.pdf` - plain-language summary report with recommendations
+- `summary_report.pdf` - plain-language summary report with recommendations
 
 ## How to run
 
